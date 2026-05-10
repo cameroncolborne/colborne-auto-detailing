@@ -16,7 +16,7 @@
     "postcss": "latest",
     "tailwindcss": "latest",
     "eslint": "latest",
-    "eslint-config-next": "latest"
+    "eslint-config-next": "latest",
     "@tailwindcss/postcss": "latest"
   }
 }
