@@ -48,12 +48,12 @@ export default function HomePage() {
   return (
     <main className="min-h-screen bg-[#0B0B0D] text-white font-sans">
       <header className="w-full border-b border-white/10 backdrop-blur-md sticky top-0 z-50 bg-[#0B0B0D]/90">
-        <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
+        <div className="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
           <div className="flex items-center gap-4">
             <img
               src="/colborne-auto-detailing-logo.png"
               alt="Colborne Auto Detailing Logo"
-              className="h-12 md:h-14 w-auto object-contain"
+              className="h-20 md:h-24 w-auto object-contain"
             />
           </div>
 
