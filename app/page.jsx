@@ -157,7 +157,8 @@ export default function HomePage() {
             <div>
               <p className="text-[#D946EF] uppercase tracking-[0.3em] text-sm mb-4 font-semibold">Real Results</p>
               <h2 className="text-4xl lg:text-5xl font-bold leading-tight mb-6">See The Difference A Proper Detail Makes</h2>
-              <p className="text-white/65 text-lg leading-relaxed mb-8">Use this section for before-and-after photos, transformation sliders, and short videos of your work. Detailing is visual — this section will be one of your strongest sales tools.</p>
+              <p className="text-white/65 text-lg leading-relaxed mb-8">Real results from real vehicles. Our detailing process is focused on restoring cleanliness, enhancing presentation, and bringing your interior back to life. From dirt and dust to a clean, refreshed finish — the difference speaks for itself.
+</p>
               <a href="#contact" className="inline-flex bg-gradient-to-r from-[#7B2CFF] to-[#FF2FB3] hover:from-[#8D45FF] hover:to-[#FF4FC1] transition px-7 py-4 rounded-2xl font-semibold">Get Your Vehicle Looking New</a>
             </div>
 
