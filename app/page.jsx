@@ -53,7 +53,7 @@ export default function HomePage() {
             <img
               src="/colborne-auto-detailing-logo.png"
               alt="Colborne Auto Detailing Logo"
-              className="h-20 md:h-24 w-auto object-contain"
+              className="h-28 md:h-32 w-auto object-contain"
             />
           </div>
 
