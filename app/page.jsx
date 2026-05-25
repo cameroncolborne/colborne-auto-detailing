@@ -28,7 +28,7 @@ export default function HomePage() {
     },
   ]
 
-  const locations = ['Halifax', 'Dartmouth', 'Bedford', 'Sackville', 'Lower Sackville', 'Clayton Park']
+  const locations = ['Halifax', 'Dartmouth', 'Bedford', 'Sackville', 'Clayton Park']
 
   const faqs = [
     {
@@ -53,7 +53,7 @@ export default function HomePage() {
             <img
               src="/colborne-auto-detailing-logo.png"
               alt="Colborne Auto Detailing Logo"
-              className="h-28 md:h-32 w-auto object-contain"
+              className="h-16 md:h-20 w-auto object-contain"
             />
           </div>
 
