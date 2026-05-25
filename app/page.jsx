@@ -41,7 +41,7 @@ export default function HomePage() {
     },
     {
       q: 'How do I book?',
-      a: 'Use the booking button, call (902) 402-5542, or email cameroncolborneauto@gmail.com to request an appointment.',
+      a: 'Use the booking button, call (902) 402-5542, or email cameron@colborneautodetailing.ca to request an appointment.',
     },
   ]
 
@@ -308,7 +308,7 @@ export default function HomePage() {
             <h2 className="text-4xl lg:text-5xl font-black mb-6 leading-tight">Ready For A Spotless Vehicle?</h2>
             <p className="text-white/80 text-xl max-w-2xl mx-auto leading-relaxed mb-10">Book your mobile detailing appointment today and experience premium convenience with professional results.</p>
             <div className="flex flex-col sm:flex-row justify-center gap-4">
-              <a href="mailto:cameroncolborneauto@gmail.com" className="bg-white text-black hover:bg-white/90 transition px-10 py-4 rounded-2xl font-bold text-lg shadow-xl">Get Your Quote</a>
+              <a href="mailto:cameron@colborneautodetailing.ca" className="bg-white text-black hover:bg-white/90 transition px-10 py-4 rounded-2xl font-bold text-lg shadow-xl">Get Your Quote</a>
               <a href="tel:9024025542" className="border border-white/30 hover:bg-white/10 transition px-10 py-4 rounded-2xl font-bold text-lg">Call Now</a>
             </div>
           </div>
@@ -326,7 +326,7 @@ export default function HomePage() {
             <h3 className="text-xl font-semibold mb-6">Contact Us</h3>
             <div className="space-y-4 text-white/70">
               <p>Phone: (902) 402-5542</p>
-              <p>Email: cameroncolborneauto@gmail.com</p>
+              <p>Email: cameron@colborneautodetailing.ca</p>
               <p>Halifax, Nova Scotia</p>
             </div>
           </div>
