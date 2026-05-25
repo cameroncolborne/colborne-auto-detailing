@@ -253,7 +253,7 @@ export default function HomePage() {
           <div className="text-center mb-20">
             <p className="text-[#D946EF] uppercase tracking-[0.3em] text-sm mb-4 font-semibold">Client Reviews</p>
             <h2 className="text-4xl lg:text-5xl font-bold">Trusted By Vehicle Owners Across Halifax</h2>
-            <p className="text-white/50 mt-5">Replace these placeholders with real Google reviews as soon as you have them.</p>
+            <p className="text-white/50 mt-5"></p>
           </div>
 
           <div className="grid lg:grid-cols-3 gap-8">
