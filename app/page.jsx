@@ -338,10 +338,17 @@ rel="noopener noreferrer"
       <section id="contact" className="py-28">
         <div className="max-w-5xl mx-auto px-6">
           <div className="bg-gradient-to-br from-[#6D28D9] via-[#A21CAF] to-[#BE185D] rounded-[2.5rem] p-10 md:p-14 text-center shadow-2xl shadow-[#D946EF]/25">
-            <h2 className="text-4xl lg:text-5xl font-black mb-6 leading-tight">Ready For A Spotless Vehicle?</h2>
-            <p className="text-white/80 text-xl max-w-2xl mx-auto leading-relaxed mb-10">Book your mobile detailing appointment today and experience premium convenience with professional results.</p>
+            <h2 className="text-4xl lg:text-5xl font-black mb-6 leading-tight">Ready To Transform Your Vehicle?</h2>
+            <p className="text-white/80 text-xl max-w-2xl mx-auto leading-relaxed mb-10">Book your mobile detailing appointment today and experience premium results delivered directly to your driveway.</p>
             <div className="flex flex-col sm:flex-row justify-center gap-4">
-              <a href="mailto:cameron@colborneautodetailing.ca" className="bg-white text-black hover:bg-white/90 transition px-10 py-4 rounded-2xl font-bold text-lg shadow-xl">Get Your Quote</a>
+         <a
+  href="https://app.squareup.com/appointments/book/bqkqjwxswcjpxh/LHGGZP2875AG9/start"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-white text-black px-10 py-4 rounded-2xl font-bold text-lg hover:scale-105 transition"
+>
+  Book Your Detail
+</a>
               <a href="tel:9024025542" className="border border-white/30 hover:bg-white/10 transition px-10 py-4 rounded-2xl font-bold text-lg">Call Now</a>
             </div>
           </div>
