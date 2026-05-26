@@ -6,29 +6,47 @@ export default function HomePage() {
     'Satisfaction Focused',
   ]
 
-  const serviceCards = [
-    {
-      title: 'Interior Detail',
-      price: 'Starting at $149',
-      desc: 'Deep interior cleaning designed to refresh the surfaces you touch every day.',
-      features: ['Full vacuum', 'Surface wipe down', 'Windows cleaned', 'Door jambs cleaned'],
-    },
-    {
-      title: 'Full Detail',
-      price: 'Starting at $249',
-      desc: 'A complete inside-and-out reset for drivers who want their vehicle looking its best.',
-      features: ['Interior detail', 'Exterior hand wash', 'Wheels & tires cleaned', 'Spray wax protection'],
-      featured: true,
-    },
-    {
-      title: 'Premium Protection',
-      price: 'Starting at $399',
-      desc: 'A higher-end package focused on shine, protection, and long-lasting presentation.',
-      features: ['Full detail included', 'Paint enhancement', 'Premium wax/sealant', 'Complete finishing touch'],
-    },
-  ]
+ const serviceCards = [
+  {
+    title: 'Exterior Detail',
+    price: 'Sedan $100 • SUV $120 • Truck $150',
+    desc: 'A complete exterior refresh designed to remove dirt, road grime, bugs, and buildup while restoring gloss and shine.',
+    features: [
+      'Hand wash & dry',
+      'Wheel & tire cleaning',
+      'Exterior windows cleaned',
+      'Bug & grime removal',
+      'Spray wax protection',
+    ],
+  },
+  {
+    title: 'Interior Detail',
+    price: 'Sedan $160 • SUV $190 • Truck $220+',
+    desc: 'A deep interior reset focused on restoring cleanliness, comfort, and pride in the spaces you use every day.',
+    features: [
+      'Full vacuum',
+      'Surface wipe down',
+      'Interior windows cleaned',
+      'Door jambs cleaned',
+      'Cupholders & console cleaned',
+    ],
+  },
+  {
+    title: 'Full Detail',
+    price: 'Sedan $250 • SUV $290 • Truck $340+',
+    desc: 'Our most complete package combining a full interior refresh with a professional exterior detail.',
+    features: [
+      'Interior detail included',
+      'Exterior detail included',
+      'Wheels & tires cleaned',
+      'Spray wax protection',
+      'Complete finishing touch',
+    ],
+    featured: true,
+  },
+]
 
-  const locations = ['Halifax', 'Dartmouth', 'Bedford', 'Sackville', 'Clayton Park']
+  const locations = ['Halifax', 'Dartmouth', 'Bedford', 'Sackville', 'Clayton Park', 'Cole Harbour', 'Lawrence Town']
 
   const faqs = [
     {
