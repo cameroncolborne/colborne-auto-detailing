@@ -62,10 +62,16 @@ export default function HomePage() {
             <a href="#results" className="hover:text-white transition">Results</a>
             <a href="#about" className="hover:text-white transition">Why Us</a>
             <a href="#pricing" className="hover:text-white transition">Packages</a>
-            <a href="#contact" className="hover:text-white transition">Contact</a>
+            <a href="https://app.squareup.com/appointments/book/bqkqjwxswcjpxh/LHGGZP2875AG9/start"
+target="_blank"
+rel="noopener noreferrer"
+              className="hover:text-white transition">Contact</a>
           </nav>
 
-          <a href="#contact" className="bg-gradient-to-r from-[#7B2CFF] to-[#FF2FB3] hover:from-[#8D45FF] hover:to-[#FF4FC1] transition px-5 py-2 rounded-xl font-medium shadow-lg shadow-[#FF2FB3]/20">
+          <a href="https://app.squareup.com/appointments/book/bqkqjwxswcjpxh/LHGGZP2875AG9/start"
+target="_blank"
+rel="noopener noreferrer" 
+            className="bg-gradient-to-r from-[#7B2CFF] to-[#FF2FB3] hover:from-[#8D45FF] hover:to-[#FF4FC1] transition px-5 py-2 rounded-xl font-medium shadow-lg shadow-[#FF2FB3]/20">
             Book Now
           </a>
         </div>
@@ -93,7 +99,10 @@ export default function HomePage() {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
-              <a href="#contact" className="bg-gradient-to-r from-[#7B2CFF] to-[#FF2FB3] hover:from-[#8D45FF] hover:to-[#FF4FC1] transition px-8 py-4 rounded-2xl font-semibold text-lg text-center shadow-xl shadow-[#7B2CFF]/30">
+              <a href="https://app.squareup.com/appointments/book/bqkqjwxswcjpxh/LHGGZP2875AG9/start"
+target="_blank"
+rel="noopener noreferrer"
+                className="bg-gradient-to-r from-[#7B2CFF] to-[#FF2FB3] hover:from-[#8D45FF] hover:to-[#FF4FC1] transition px-8 py-4 rounded-2xl font-semibold text-lg text-center shadow-xl shadow-[#7B2CFF]/30">
                 Book Mobile Detailing
               </a>
 
@@ -159,7 +168,10 @@ export default function HomePage() {
               <h2 className="text-4xl lg:text-5xl font-bold leading-tight mb-6">See The Difference A Proper Detail Makes</h2>
               <p className="text-white/65 text-lg leading-relaxed mb-8">Real results from real vehicles. Our detailing process is focused on restoring cleanliness, enhancing presentation, and bringing your interior back to life. From dirt and dust to a clean, refreshed finish — the difference speaks for itself.
 </p>
-              <a href="#contact" className="inline-flex bg-gradient-to-r from-[#7B2CFF] to-[#FF2FB3] hover:from-[#8D45FF] hover:to-[#FF4FC1] transition px-7 py-4 rounded-2xl font-semibold">Get Your Vehicle Looking New</a>
+              <a href="https://app.squareup.com/appointments/book/bqkqjwxswcjpxh/LHGGZP2875AG9/start"
+target="_blank"
+rel="noopener noreferrer" 
+                className="inline-flex bg-gradient-to-r from-[#7B2CFF] to-[#FF2FB3] hover:from-[#8D45FF] hover:to-[#FF4FC1] transition px-7 py-4 rounded-2xl font-semibold">Get Your Vehicle Looking New</a>
             </div>
 
             <div className="grid grid-cols-2 gap-4">
@@ -241,7 +253,10 @@ export default function HomePage() {
                     </div>
                   ))}
                 </div>
-                <a href="#contact" className="block text-center w-full bg-gradient-to-r from-[#7B2CFF] to-[#FF2FB3] hover:from-[#8D45FF] hover:to-[#FF4FC1] transition py-4 rounded-2xl font-semibold">Book Package</a>
+                <a href="https://app.squareup.com/appointments/book/bqkqjwxswcjpxh/LHGGZP2875AG9/start"
+target="_blank"
+rel="noopener noreferrer" 
+                 className="block text-center w-full bg-gradient-to-r from-[#7B2CFF] to-[#FF2FB3] hover:from-[#8D45FF] hover:to-[#FF4FC1] transition py-4 rounded-2xl font-semibold">Book Package</a>
               </div>
             ))}
           </div>
