@@ -80,10 +80,7 @@ export default function HomePage() {
             <a href="#results" className="hover:text-white transition">Results</a>
             <a href="#about" className="hover:text-white transition">Why Us</a>
             <a href="#pricing" className="hover:text-white transition">Packages</a>
-            <a href="https://app.squareup.com/appointments/book/bqkqjwxswcjpxh/LHGGZP2875AG9/start"
-target="_blank"
-rel="noopener noreferrer"
-              className="hover:text-white transition">Contact</a>
+            <a href="#contact" className="hover:text-white transition">Contact</a>
           </nav>
 
           <a href="https://app.squareup.com/appointments/book/bqkqjwxswcjpxh/LHGGZP2875AG9/start"
