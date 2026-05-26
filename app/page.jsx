@@ -21,7 +21,7 @@ export default function HomePage() {
   },
   {
     title: 'Interior Detail',
-    price: 'Sedan $160 • SUV $190 • Truck $220+',
+    price: 'Sedan $160 • SUV $190 • Truck $220',
     desc: 'A deep interior reset focused on restoring cleanliness, comfort, and pride in the spaces you use every day.',
     features: [
       'Full vacuum',
@@ -33,7 +33,7 @@ export default function HomePage() {
   },
   {
     title: 'Full Detail',
-    price: 'Sedan $250 • SUV $290 • Truck $340+',
+    price: 'Sedan $250 • SUV $290 • Truck $360',
     desc: 'Our most complete package combining a full interior refresh with a professional exterior detail.',
     features: [
       'Interior detail included',
