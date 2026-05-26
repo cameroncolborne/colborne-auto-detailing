@@ -59,7 +59,7 @@ export default function HomePage() {
     },
     {
       q: 'How do I book?',
-      a: 'Use the booking button, call (902) 402-5542, or email cameron@colborneautodetailing.ca to request an appointment.',
+      a: 'Use the booking button, call (902) 402-5542, or email cameron@colborneautodetailing.ca to schedual an appointment.',
     },
   ]
 
